@@ -24,7 +24,7 @@ $en = array(
     'post:select:privacy' => 'Please select privacy for wall post',
     'ossn:wall:settings:save:error' => 'Cannot save settings! Please try again later.',
     'ossn:wall:settings:saved' => 'Podešavanja memorisana!',
-    'ossn:wall:admin:notice' => 'Homepage Posts',
+    'ossn:wall:admin:notice' => 'Objava sa naslovne strane',
     'ossn:wall:allsite:posts' => 'All site posts',
     'ossn:wall:friends:posts' => 'Friends posts only',
 );
