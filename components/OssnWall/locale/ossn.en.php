@@ -10,9 +10,9 @@
  */
 $en = array(
     'ossnwall' => 'Zid',
-    'post:created' => 'Successfully created post!',
-    'post:create:error' => 'Cannot create post! Please try again later.',
-    'post' => 'Post',
+    'post:created' => 'Uspešno kreirana objava!',
+    'post:create:error' => 'Ne možete da kreirate objavu! Molimo vas probajte kasnije.',
+    'post' => 'Objava',
     'enter:location' => 'Unesi lokaciju',
     'tag:friends' => 'Označi Prijatelja',
     'wall:post:container' => "O čemu razmišljate?",
