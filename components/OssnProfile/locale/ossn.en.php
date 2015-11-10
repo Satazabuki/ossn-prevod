@@ -11,16 +11,16 @@
 $en = array(
     'people:like:this' => 'People who liked this post',
     'change:cover' => 'Change Cover',
-    'change:photo' => 'Change Photo',
-    'update:info' => 'Update Info',
-    'message' => 'Message',
-    'save:position' => 'Save Position',
-	'ossn:profile:picture:updated' => 'Changed profile picture.',
+    'change:photo' => 'Promeni Fotografiju',
+    'update:info' => 'Ažuriranje Informacija',
+    'message' => 'Poruke',
+    'save:position' => 'Sačuvaj poziciju',
+	'ossn:profile:picture:updated' => 'Izmeni profilnu fotografiju.',
 	'ossn:profile:cover:picture:updated' => 'Changed profile cover.',
-	'language' => 'Language',
+	'language' => 'Jezik',
 
-    'edit:profile' => 'Edit Profile',
+    'edit:profile' => 'Izmeni Profil',
     'reposition:cover' => 'Reposition',
-    'profile:photos' => 'Profile Photos',	
+    'profile:photos' => 'Profilne Slike',	
 );
 ossn_register_languages('en', $en); 
