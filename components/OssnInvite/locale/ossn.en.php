@@ -21,7 +21,7 @@ $en = array(
 
 %s
 
-Da se pridružite kliknite naa:
+Da se pridružite kliknite na:
 
 %s
 
