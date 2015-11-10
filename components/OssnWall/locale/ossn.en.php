@@ -25,7 +25,7 @@ $en = array(
     'ossn:wall:settings:save:error' => 'Cannot save settings! Please try again later.',
     'ossn:wall:settings:saved' => 'Podešavanja memorisana!',
     'ossn:wall:admin:notice' => 'Objava sa naslovne strane',
-    'ossn:wall:allsite:posts' => 'All site posts',
+    'ossn:wall:allsite:posts' => 'Objave sa svih stranica',
     'ossn:wall:friends:posts' => 'Friends posts only',
 );
 ossn_register_languages('en', $en);
