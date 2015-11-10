@@ -26,6 +26,6 @@ $en = array(
     'ossn:wall:settings:saved' => 'Podešavanja memorisana!',
     'ossn:wall:admin:notice' => 'Objava sa naslovne strane',
     'ossn:wall:allsite:posts' => 'Objave sa svih stranica',
-    'ossn:wall:friends:posts' => 'Friends posts only',
+    'ossn:wall:friends:posts' => 'Objave samo ya prijatelje',
 );
 ossn_register_languages('en', $en);
