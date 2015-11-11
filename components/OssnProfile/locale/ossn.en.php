@@ -9,18 +9,18 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $en = array(
-    'people:like:this' => 'People who liked this post',
-    'change:cover' => 'Change Cover',
+    'people:like:this' => 'Ljudi kojima se objava sviđa',
+    'change:cover' => 'Promeni pozadinu',
     'change:photo' => 'Promeni Fotografiju',
     'update:info' => 'Ažuriranje Informacija',
     'message' => 'Poruke',
     'save:position' => 'Sačuvaj poziciju',
 	'ossn:profile:picture:updated' => 'Izmeni profilnu fotografiju.',
-	'ossn:profile:cover:picture:updated' => 'Changed profile cover.',
+	'ossn:profile:cover:picture:updated' => 'Promeni pozadinu profila.',
 	'language' => 'Jezik',
 
     'edit:profile' => 'Izmeni Profil',
-    'reposition:cover' => 'Reposition',
+    'reposition:cover' => 'Promena Pozicije',
     'profile:photos' => 'Profilne Slike',	
 );
 ossn_register_languages('en', $en); 
