@@ -107,7 +107,7 @@ $en = array(
 	'ossn:add:user:mail:subject' => "%s molimo vas potvrdite vašu I-mejl adresu %s!",
 	'ossn:add:user:mail:body' => "Pre upotrebe %s, morate da potvrdite vašu I-mejl adresu.
 
-Please confirm your email address by clicking on the link below:
+Molimo vas da potvrdite svoju I-mejl adresu tako što ćete kliknuti na link ispod:
 
 %s
 
