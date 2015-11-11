@@ -116,15 +116,15 @@ Možete da kopirate adresu u vašem pretraživaču ručno u slučaju da veza ne 
 %s",
 	'user:friends' => 'Prijatelji',
 	'user:account:validated' => '!Nalog je uspešno potvrđen.',
-	'user:account:validate:fail' => 'Cannot validate account! Please try again later.',
+	'user:account:validate:fail' => 'Ne moguće potvrditi nalog! Molimo pokušajte kasnije.',
 	
-	'cache:enabled' => 'Cache successfully enabled!',
-	'cache:disabled' => 'Cache successfully disabled!',
-	'cache:enable' => 'Enable Cache',
-	'cache:disable' => 'Disable Cache',
+	'cache:enabled' => 'Keš memorija uspešno omogućena!',
+	'cache:disabled' => 'Keš memorija onemogućena!',
+	'cache:enable' => 'Omogući keš memoriju',
+	'cache:disable' => 'Onemogući keš memoriju',
 	
-	'cache:1' => 'Enabled',
-	'cache:0' => 'Disabled',
+	'cache:1' => 'Omogućeno',
+	'cache:0' => 'Onemogućeno',
 	'cache:notice' => 'Stores CSS and Javascript files in a cache to improve site performance.',
 	
 	'theme:install:notice' => 'Upload a valid .zip theme package.',
