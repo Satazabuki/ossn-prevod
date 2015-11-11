@@ -10,10 +10,10 @@
  */
 
 $en = array(
-	'ossn:search' => 'Search',
-	'result:type' => 'RESULT TYPE',
-	'search:result' => 'Search results for %s',
-	'ossn:search:topbar:search' => 'Search groups, friends and more.',
-	'ossn:search:no:result' => 'No results found!',
+	'ossn:search' => 'Pretraga',
+	'result:type' => 'TIP REZULTATA',
+	'search:result' => 'Pretraga rezultata za %s',
+	'ossn:search:topbar:search' => 'Traži grube, prijatelje i drugo.',
+	'ossn:search:no:result' => 'Neam pronađenih rezultata!',
 );
 ossn_register_languages('en', $en); 
