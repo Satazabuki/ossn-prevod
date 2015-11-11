@@ -444,4 +444,4 @@ Please click the link below to reset password or copy the link and paste into yo
 	"zh" => "Chinese",
 	"zu" => "Zulu"
 );
-ossn_register_languages('en', $en);
+ossn_register_languages('sr', $sr);
