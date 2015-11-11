@@ -9,13 +9,13 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $en = array(
-    'ossnsitepages' => 'Site Pages',
-    'site:privacy' => 'Privacy',
-    'site:about' => 'About',
-    'site:terms' => 'Terms and Conditions',
+    'ossnsitepages' => 'Stranice Sajta',
+    'site:privacy' => 'Privatnost',
+    'site:about' => 'O nama',
+    'site:terms' => 'Uslovi korišćenja',
 
-    'page:saved' => 'Page saved successfully!',
-    'page:save:error' => 'Cannot save page! Please try again later.',
+    'page:saved' => 'Stranica je sačuvana!',
+    'page:save:error' => 'Stranica ne može da se sačuva. Pokušajte kasnije.',
 
 );
 ossn_register_languages('en', $en); 
