@@ -34,4 +34,4 @@ $en = array(
     
     'ossn:notifications:mark:as:read' => 'Označi kao pročitano',
 );
-ossn_register_languages('en', $en);  
+ossn_register_languages('sr', $sr);  
