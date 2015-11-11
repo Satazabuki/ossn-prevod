@@ -21,7 +21,7 @@ $en = array(
 	'create:account' => 'Napravite nalog',
 	'its:free' => "Besplatno je i uvek će biti.",
 	
-	'register:ok:message' => "Your account has been registered. An activation email has been sent to your mailbox. If you didn't receive the email, please check your spam/junk folder.",
+	'register:ok:message' => "Vaš nalog je registrovan. Aktivacioni mail je poslat na vasu email adresu. Ako vam mail nije stigao obavezno proverite spam folder.",
 	
 	'copyright' => '&copy; COPYRIGHT',
 	'powered' => 'Powered by Nichim_Izazvan',
