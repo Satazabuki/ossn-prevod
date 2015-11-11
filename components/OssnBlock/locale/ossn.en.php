@@ -14,4 +14,4 @@ $en = array(
     'user:block' => 'Blokira',
     'user:unblock' => 'Odblokiraj',
 );
-ossn_register_languages('en', $en); 
+ossn_register_languages('sr', $sr); 
