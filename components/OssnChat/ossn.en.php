@@ -11,4 +11,4 @@
 $en = array(
 	'ossn:chat:no:friend:online' => 'Nema prisutnih korisnika',
 );
-ossn_register_languages('en', $en);
+ossn_register_languages('sr', $sr);
