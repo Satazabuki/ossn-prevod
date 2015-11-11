@@ -156,10 +156,10 @@ Možete da kopirate adresu u vašem pretraživaču ručno u slučaju da veza ne 
 	'user:updated' => 'Korisnik je ažuriran!',
 	'logged:out' => 'Sad ste se odjavili!',
 	'username:inuse' => 'Ovo korisničcko ime je zauzeto. Molimo vas izaberite drugo.',
-	'email:inuse' => `I-mejl koji ste odabrali je u upotrebi. Molimo vas da izaberete drugu I-mejl adresu.',
-	'email:invalid' => 'Neispravan I-mejl! Budite precizni pri kucanju ukucajte validni I-mejl.',
-	'email:error:matching' => "I-mejl adrese se ne podudaraju.",
-	'account:created:email' => "Vaš nalog je registrovan! Poslali smo vam aktivacioni kod na I-mejl. Ako niste primili I-mejl, molimo vas proverite spam/junk fasciklu",
+	'email:inuse' => `Email koji ste odabrali je u upotrebi. Molimo vas da izaberete drugu Email adresu.',
+	'email:invalid' => 'Neispravan Email! Budite precizni pri kucanju ukucajte validni Email.',
+	'email:error:matching' => "Email adrese se ne podudaraju.",
+	'account:created:email' => "Vaš nalog je registrovan! Poslali smo vam aktivacioni kod na Email. Ako niste primili Email, molimo vas proverite spam/junk fasciklu",
 	
 	'administration' => 'Administracija',
 	
