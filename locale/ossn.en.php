@@ -127,7 +127,7 @@ Možete da kopirate adresu u vašem pretraživaču ručno u slučaju da veza ne 
 	'cache:0' => 'Onemogućeno',
 	'cache:notice' => 'Čuva CSS i Javascript podatke u keš memoriji radi poboljšanja performansi sajta.',
 	
-	'theme:install:notice' => 'Upload a valid .zip theme package.',
+	'theme:install:notice' => 'Učitaj validni .zip paket tema.',
 	'com:install:notice' => 'Upload a valid .zip component package.',
 	
 	'login:error' => 'Invalid username or passsword!',
