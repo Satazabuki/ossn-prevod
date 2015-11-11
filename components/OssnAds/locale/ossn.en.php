@@ -9,10 +9,10 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $en = array(
-    'ossnads' => 'Ads Manager',
-    'fields:required' => 'All fields are required!',
-    'ad:created' => 'Ad has been created!',
-    'ad:create:fail' => 'Cannot create ad!',
+    'ossnads' => 'Reklamni Menadzer',
+    'fields:required' => 'Popunite sva polja!',
+    'ad:created' => 'Reklama je kreirana!',
+    'ad:create:fail' => 'Ne moguće dodati reklamu!',
     'ad:title' => 'Naslov',
     'ad:site:url' => 'URL Sajta',
     'ad:desc' => 'Opis',
@@ -21,8 +21,8 @@ $en = array(
     'ad:clicks' => 'Klikni',
     'sponsored' => 'SPONZORISANO',
 	'ad:deleted' => "Ad with the title of '%s' has been successfully deleted.",
-	'ad:delete:fail' => 'Cannot delete ad! Please try again later.',
-	'ad:edited' => 'Ad successfully modified.',
-	'ad:edit:fail' => 'Cannot edit ad! Please try again later.',
+	'ad:delete:fail' => 'Ne moguće obrisati reklamu! Molimo vas pokušajte kasnije.',
+	'ad:edited' => 'Reklama uspešno prepravljena.',
+	'ad:edit:fail' => 'Ne moguce prikazati reklamu! Molimo vas pokušajte kasnije.',
 );
 ossn_register_languages('en', $en); 
