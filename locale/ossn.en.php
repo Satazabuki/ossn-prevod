@@ -111,11 +111,11 @@ Molimo vas da potvrdite svoju I-mejl adresu tako što ćete kliknuti na link isp
 
 %s
 
-You may copy and paste the address to your browser manually in case the link does not work.
+Možete da kopirate adresu u vašem pretraživaču ručno u slučaju da veza ne radi.
 
 %s",
 	'user:friends' => 'Prijatelji',
-	'user:account:validated' => 'Account has been validated successfully!',
+	'user:account:validated' => '!Nalog je uspešno potvrđen.',
 	'user:account:validate:fail' => 'Cannot validate account! Please try again later.',
 	
 	'cache:enabled' => 'Cache successfully enabled!',
