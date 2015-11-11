@@ -128,11 +128,11 @@ Možete da kopirate adresu u vašem pretraživaču ručno u slučaju da veza ne 
 	'cache:notice' => 'Čuva CSS i Javascript podatke u keš memoriji radi poboljšanja performansi sajta.',
 	
 	'theme:install:notice' => 'Učitaj validni .zip paket tema.',
-	'com:install:notice' => 'Upload a valid .zip component package.',
+	'com:install:notice' => 'Učitaj validne .zip pakete komponenti.',
 	
-	'login:error' => 'Invalid username or passsword!',
-	'login:error:sub' => "We couldn't log you in. Please check your username or password and try again.",
-	'login:success' => 'You are now logged in!',
+	'login:error' => 'Ne ispravno korisničko ime i lozinka!',
+	'login:error:sub' => "Nismo mogli da vas ulogujemo. Molimo vas da proverite korisničko ime i lozinku pa probajte opet.",
+	'login:success' => 'Sad ste ulogovani!',
 	'com:installed' => 'Component has been uploaded to your components list, you can now enable it from components page.',
 	'com:install:error' => 'Cannot upload component, make sure it is a valid package.',
 	'settings:saved' => 'Settings saved',
