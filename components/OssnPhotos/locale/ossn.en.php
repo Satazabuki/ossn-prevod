@@ -10,29 +10,29 @@
  */
 
 $en = array(
-    'album:name' => 'Album Name',
-    'add:album' => 'Add Album',
-    'photo:select' => 'Select Photo',
-    'no:albums' => 'No Albums',
-    'no:photos' => 'No Photos',
-    'back:to:album' => 'Back to Album',
-    'photo:albums' => 'Photo Albums',
+    'album:name' => 'Ime Albuma',
+    'add:album' => 'Dodaj Album',
+    'photo:select' => 'Izaberi Album',
+    'no:albums' => 'Nema Albuma',
+    'no:photos' => 'Nema Slika',
+    'back:to:album' => 'Nazad na Album',
+    'photo:albums' => 'Albumi',
 	
-    'photo:deleted:success' => 'Photo successfully deleted!',
-    'photo:delete:error' => 'Cannot delete photo! Please try again later.',
+    'photo:deleted:success' => 'Slika uspešno obirsana!',
+    'photo:delete:error' => 'Ne možes obrisati fotografiju! Molim probaj kasnije.',
 	
-    'photos' => 'Photos',
-    'back' => 'Back',
-    'add:photos' => 'Add photos',
-    'delete:photo' => 'Delete photo',
+    'photos' => 'Slika',
+    'back' => 'Nazad',
+    'add:photos' => 'Dodaj sliku',
+    'delete:photo' => 'Obriši sliku',
 	
-    'covers' => 'Covers',
-    'cover:view' => 'Cover View',
-    'profile:covers' => 'Profile Covers',
-	'delete:album' => 'Delete Album',
+    'covers' => 'Pozadine',
+    'cover:view' => 'Prgled Pozadine',
+    'profile:covers' => 'Profilna Pozadina',
+	'delete:album' => 'Obriši Album',
 	
-	'photo:album:deleted' => 'Photo album successfully deleted',
-	'photo:album:delete:error' => 'Can not delete photo album',
+	'photo:album:deleted' => 'Album je uspešno obrisan',
+	'photo:album:delete:error' => 'Ne možes obrisati album',
 	
 
 );
