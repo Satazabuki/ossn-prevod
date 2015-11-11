@@ -64,4 +64,4 @@ $en = array(
 	'group:deleted' => 'Grupa je obrisana',
 	'group:delete:fail' => 'Grupa ne može biti obrisana',	
 );
-ossn_register_languages('en', $en);  
+ossn_register_languages('sr', $sr);  
