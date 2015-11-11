@@ -20,7 +20,7 @@ $en = array(
     'member:request:deleted' => 'Odbijen zahtev za članstvo!',
     'member:request:delete:fail' => 'Ne moguće odbiti zahtev za članstvo! Molimo vas pokušajte kasnije.',
     'membership:cancel:succes' => 'Otkazan zahtev za članstvo!',
-    'membership:cancel:fail' => 'Nemoguće otkzati zahtev za članstvo! Molimo vas pokušajte kasnije.',
+    'membership:cancel:fail' => 'Nemoguće otkazti zahtev za članstvo! Molimo vas pokušajte kasnije.',
 
     'group:added' => 'Grupa uspešno kreirana!',
     'group:add:fail' => 'Nemoguće kreirati grupu! Molimo vas pokušajte kasnije.',
