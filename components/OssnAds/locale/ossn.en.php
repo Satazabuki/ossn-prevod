@@ -25,4 +25,4 @@ $en = array(
 	'ad:edited' => 'Reklama uspešno prepravljena.',
 	'ad:edit:fail' => 'Ne moguce prikazati reklamu! Molimo vas pokušajte kasnije.',
 );
-ossn_register_languages('en', $en); 
+ossn_register_languages('sr', $sr); 
