@@ -82,7 +82,7 @@ $en = array(
 	'admin:users' => 'Lista Korisnika',
 	'admin:add:user' => 'Dodaj Korisnika',
 	'admin:user:deleted' => 'Korisnik je obrisan!',
-	'admin:user:delete:error' => 'Ne moguće obrisati korisnika. Molimo vas pokusajte kasnije.',
+	'admin:user:delete:error' => 'Ne moguće obrisati korisnika. Molimo vas pokušajte kasnije.',
 	
 	'type' => 'Vrsta',
 	'normal' => 'Normalan',
@@ -180,19 +180,19 @@ Možete da kopirate adresu u vašem pretraživaču ručno u slučaju da veza ne 
 	'ossn:friend:request:submitted' => 'Zahtev za prijateljstvo je poslat!',
 	
 	/* Upgrades */
-	'upgrade:file:load:error' => 'Cannot load upgrade file!',
-	'upgrade:success' => "Your website has been upgraded successfully to release %s.",
-	'upgrade:failed' => "Cannot upgrade your site to release %s.",
-	'upgrade:not:available' => 'Nothing to upgrade!',
+	'upgrade:file:load:error' => 'Nemoguće učitati nadogradnju file!',
+	'upgrade:success' => "Vaš sajt je uspešno ažuriran u poslednju verziju %s.",
+	'upgrade:failed' => "Nemoguće ažurirati sajt %s.",
+	'upgrade:not:available' => 'Ništa za ažuriranje!',
 	
-	'site:login' => 'Login',
+	'site:login' => 'Uloguj se',
 	/* Page errors */
-	'system:error:title' => 'Something went wrong!',
-	'system:error:text' => 'Something went wrong! Reload this page and try again.',
+	'system:error:title' => 'Greška na sajtu!',
+	'system:error:text' => 'Greška na sajtu! Pokrenite stranicu ponovo.',
 	
 	/* Password Reset */
-	'reset:login' => 'Reset Password',
-	'reset:password' => 'Reset your password',
+	'reset:login' => 'Resetujte korisničko ime',
+	'reset:password' => 'Resetujte Lozinku',
 	'enter:new:password' => 'Enter your new password below and click reset.',
 	'reset' => 'Reset',
 	'enter:emai:reset:pwd' => 'Enter the email address of your account in order to reset the password.',
