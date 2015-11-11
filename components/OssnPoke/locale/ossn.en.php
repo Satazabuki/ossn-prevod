@@ -9,9 +9,9 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $en = array(
-    'ossn:notifications:ossnpoke:poke' => "%s has poked you!",
-    'user:poked' => 'You have poked %s!',
-    'user:poke:error' => 'Cannot poke %s! Please try again later.',
-    'poke' => 'Poke',
+    'ossn:notifications:ossnpoke:poke' => "%s te je udario!",
+    'user:poked' => 'Ti si udari %s!',
+    'user:poke:error' => 'Ne možeš udariti %s! Probaj malo kasnije.',
+    'poke' => 'Udaranje',
 );
 ossn_register_languages('en', $en);
