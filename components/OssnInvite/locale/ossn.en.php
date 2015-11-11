@@ -41,4 +41,4 @@ Srdačan pozdrav.
 	'com:ossn:invite:already:members' => 'Ova adresa se je već u upotrebi: %s',
 	'com:ossn:invite:empty:emails' => 'Molimo vas dodajte barem jednu email adresu',
 );
-ossn_register_languages('en', $en); 
+ossn_register_languages('sr', $sr); 
