@@ -17,4 +17,4 @@ $en = array(
     'message:placeholder' => 'Unesi poruku',
     'no:messages' => 'Nema novih poruka.'
 );
-ossn_register_languages('en', $en); 
+ossn_register_languages('sr', $sr); 
