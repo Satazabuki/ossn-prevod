@@ -9,4 +9,4 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $en = array('people:like:this' => 'Ljudi kojima se sviđa objava',);
-ossn_register_languages('en', $en); 
+ossn_register_languages('sr', $sr); 
