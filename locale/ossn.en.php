@@ -193,11 +193,11 @@ Možete da kopirate adresu u vašem pretraživaču ručno u slučaju da veza ne 
 	/* Password Reset */
 	'reset:login' => 'Resetujte korisničko ime',
 	'reset:password' => 'Resetujte Lozinku',
-	'enter:new:password' => 'Enter your new password below and click reset.',
+	'enter:new:password' => 'Unesite novu lozinku ispod i kliknite Reset.',
 	'reset' => 'Reset',
-	'enter:emai:reset:pwd' => 'Enter the email address of your account in order to reset the password.',
-	'ossn:reset:password:subject' => 'Reset your password',
-	'ossn:reset:password:body' => "Hello %s,
+	'enter:emai:reset:pwd' => 'Unesite I-mejl adresu vašeg naloga da bi uspešno resetovali vašsu lozinku.',
+	'ossn:reset:password:subject' => 'Resetujte vašu lozinku',
+	'ossn:reset:password:body' => "Zdravo %s,
 	
 Please click the link below to reset password or copy the link and paste into your browser's address bar:
 
