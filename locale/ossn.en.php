@@ -79,33 +79,33 @@ $en = array(
 	'search' => 'Pretraži',
 	'delete' => 'Obriši',
 	
-	'admin:users' => 'List Users',
-	'admin:add:user' => 'Add User',
-	'admin:user:deleted' => 'User has been deleted!',
-	'admin:user:delete:error' => 'Unable to delete user. Please try again later.',
+	'admin:users' => 'Lista Korisnika',
+	'admin:add:user' => 'Dodaj Korisnika',
+	'admin:user:deleted' => 'Korisnik je obrisan!',
+	'admin:user:delete:error' => 'Ne moguće obrisati korisnika. Molimo vas pokusajte kasnije.',
 	
-	'type' => 'Type',
-	'normal' => 'Normal',
+	'type' => 'Vrsta',
+	'normal' => 'Normalan',
 	'admin' => 'Administrator',
 	
-	'lastlogin' => 'Last Login',
+	'lastlogin' => 'Poslednje Logovanje',
 	
-	'my:version' => 'My OSSN Version',
-	'online:users' => 'Users Online',
-	'themes' => 'Themes',
-	'users' => 'Users',
-	'components' => 'Components',
-	'available:updates' => 'Available Updates',
-	'website:name' => 'Website Name',
-	'owner:email' => 'Owner Email',
-	'default:lang' => 'Default Language',
+	'my:version' => 'Moja OSSN Veryija',
+	'online:users' => 'Korisnici na mreži',
+	'themes' => 'Teme',
+	'users' => 'Korisnici',
+	'components' => 'Komponente',
+	'available:updates' => 'Dostupna Ažuriranja ',
+	'website:name' => 'Ime Mreže',
+	'owner:email' => 'I-mejl Vlasnika',
+	'default:lang' => 'Podrazumevani Jezik',
 	
-	'timeline' => 'Timeline',
+	'timeline' => 'Vremenska Linija',
 	'photos' => 'Slike',
 	'friends' => 'Prijatelji',
 	'links' => 'Linkovi',
-	'ossn:add:user:mail:subject' => "%s please confirm your email address for %s!",
-	'ossn:add:user:mail:body' => "Before you can start using %s, you must confirm your email address.
+	'ossn:add:user:mail:subject' => "%s molimo vas potvrdite vašu I-mejl adresu %s!",
+	'ossn:add:user:mail:body' => "Pre upotrebe %s, morate da potvrdite vašu I-mejl adresu.
 
 Please confirm your email address by clicking on the link below:
 
