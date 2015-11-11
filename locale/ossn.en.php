@@ -125,7 +125,7 @@ Možete da kopirate adresu u vašem pretraživaču ručno u slučaju da veza ne 
 	
 	'cache:1' => 'Omogućeno',
 	'cache:0' => 'Onemogućeno',
-	'cache:notice' => 'Stores CSS and Javascript files in a cache to improve site performance.',
+	'cache:notice' => 'Čuva CSS i Javascript podatke u keš memoriji radi poboljšanja performansi sajta.',
 	
 	'theme:install:notice' => 'Upload a valid .zip theme package.',
 	'com:install:notice' => 'Upload a valid .zip component package.',
