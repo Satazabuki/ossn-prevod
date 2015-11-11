@@ -18,4 +18,4 @@ $en = array(
 	'comment:comment' => 'Pošalji',
 	'comment:view:all' => 'Vidi sve komentare',
 );
-ossn_register_languages('en', $en); 
+ossn_register_languages('sr', $sr); 
