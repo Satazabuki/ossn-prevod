@@ -9,18 +9,18 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $en = array(
-    'groups' => 'Groups',
-    'add:group' => 'Add Group',
-    'requests' => 'Requests',
+    'groups' => 'Grupe',
+    'add:group' => 'Dodaj Grupu',
+    'requests' => 'Zahtevi',
 
-    'members' => 'Members',
-    'member:add:error' => 'Something went wrong! Please try again later.',
-    'member:added' => 'Membership request approved!',
+    'members' => 'Članovi',
+    'member:add:error' => 'Došlo je do kvara! Molimo vas pokušajte kasnije.',
+    'member:added' => 'Odobren zahtev za članstvo!',
 
-    'member:request:deleted' => 'Membership request declined!',
-    'member:request:delete:fail' => 'Cannot decline membership request! Please try again later.',
-    'membership:cancel:succes' => 'Membership request cancelled!',
-    'membership:cancel:fail' => 'Cannot cancel membership request! Please try again later.',
+    'member:request:deleted' => 'Odbijen zahtev za članstvo!',
+    'member:request:delete:fail' => 'Ne moguće odbiti zahtev za članstvo! Molimo vas pokušajte kasnije.',
+    'membership:cancel:succes' => 'Otkazan zahtev za članstvo!',
+    'membership:cancel:fail' => 'Ne moguče otkaati zahtev za članstvo! Please try again later.',
 
     'group:added' => 'Successfully created the group!',
     'group:add:fail' => 'Cannot create group! Please try again later.',
