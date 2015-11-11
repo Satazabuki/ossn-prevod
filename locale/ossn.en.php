@@ -155,11 +155,11 @@ Možete da kopirate adresu u vašem pretraživaču ručno u slučaju da veza ne 
 	'account:create:error:admin' => 'Registracija naloga neuspešna! Molimo pokušajte kasnije.',
 	'user:updated' => 'Korisnik je ažuriran!',
 	'logged:out' => 'Sad ste se odjavili!',
-	'username:inuse' => 'The following username has already been used. Please select a different username.',
-	'email:inuse' => 'The email address you used already exists in our database. Please try another email address.',
-	'email:invalid' => 'Email address is invalid! Make sure the email address you entered is correct.',
-	'email:error:matching' => "Email addresses do not match.",
-	'account:created:email' => "Your account has been registered! We have sent you an account activation email. If you didn't receive the email, please check your spam/junk folder",
+	'username:inuse' => 'Ovo korisničcko ime je zauzeto. Molimo vas izaberite drugo.',
+	'email:inuse' => `I-mejl koji ste odabrali je u upotrebi. Molimo vas da izaberete drugu I-mejl adresu.',
+	'email:invalid' => 'Neispravan I-mejl! Budite precizni pri kucanju ukucajte validni I-mejl.',
+	'email:error:matching' => "I-mejl adrese se ne podudaraju.",
+	'account:created:email' => "Vaš nalog je registrovan! Poslali smo vam aktivacioni kod na I-mejl. Ako niste primili I-mejl, molimo vas proverite spam/junk fasciklu",
 	
 	'administration' => 'Administration',
 	
