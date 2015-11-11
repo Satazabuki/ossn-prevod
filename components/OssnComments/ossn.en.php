@@ -9,13 +9,13 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $en = array(
-	'write:comment' => 'Write a comment...',
+	'write:comment' => 'Piši komentar...',
 	'like' => 'Like',
 	'unlike' => 'Unlike',
-	'comment:deleted' => 'Comment successfully deleted!',
-	'comment:delete:error' => 'Cannot delete comment! Please try again later.',
-	'comment:delete' => 'Delete',
-	'comment:comment' => 'Comment',
-	'comment:view:all' => 'View all comments',
+	'comment:deleted' => 'Komentar uspešno obrisan!',
+	'comment:delete:error' => 'Komentar ne može biti obrisan, probajte kasnije.',
+	'comment:delete' => 'Brisanje',
+	'comment:comment' => 'Pošalji',
+	'comment:view:all' => 'Vidi sve komentare',
 );
 ossn_register_languages('en', $en); 
