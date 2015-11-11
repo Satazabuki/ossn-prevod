@@ -10,28 +10,28 @@
  */
 
 $en = array(
-    'ossn:notifications:comments:post' => "%s commented on the post.",
-    'ossn:notifications:like:post' => "%s liked your post.",
-    'ossn:notifications:like:annotation' => "%s liked your comment.",
-    'ossn:notifications:like:entity:file:ossn:aphoto' => "%s liked your photo.",
-    'ossn:notifications:comments:entity:file:ossn:aphoto' => '%s commented on your photo.',
-    'ossn:notifications:wall:friends:tag' => '%s tagged you in a post.',
-    'ossn:notification:are:friends' => 'You are now friends!',
-    'ossn:notifications:comments:post:group:wall' => "%s commented on the group post.",
-    'ossn:notifications:like:entity:file:profile:photo' => "%s liked the profile photo.",
-    'ossn:notifications:comments:entity:file:profile:photo' => "%s commented on the profile photo.",
-    'ossn:notifications:like:post:group:wall' => '%s liked your post.',
+    'ossn:notifications:comments:post' => "%s je komentarisao tvoju objavu.",
+    'ossn:notifications:like:post' => "%s se sviđa tvoja objava.",
+    'ossn:notifications:like:annotation' => "%s se sviđa tvoj komentar.",
+    'ossn:notifications:like:entity:file:ossn:aphoto' => "%s se sviđa tvoja slika.",
+    'ossn:notifications:comments:entity:file:ossn:aphoto' => '%s je komentarisao tvoju sliku.',
+    'ossn:notifications:wall:friends:tag' => '%s te je označio u objavi.',
+    'ossn:notification:are:friends' => 'Vi ste sada prijatelji!',
+    'ossn:notifications:comments:post:group:wall' => "%s je komentarisao grupnu objavu.",
+    'ossn:notifications:like:entity:file:profile:photo' => "%s se sviđa pozadina.",
+    'ossn:notifications:comments:entity:file:profile:photo' => "%s je komentarisao pozadinu.",
+    'ossn:notifications:like:post:group:wall' => '%s se sviđa objava.',
 	
-    'ossn:notification:delete:friend' => 'Friend request deleted!',
-    'notifications' => 'Notifications',
-    'see:all' => 'See All',
-    'friend:requests' => 'Friend Requests',
-    'ossn:notifications:friendrequest:confirmbutton' => 'Confirm',
-    'ossn:notifications:friendrequest:denybutton' => 'Deny',
+    'ossn:notification:delete:friend' => 'Zahtev za prijateljstvo obrisan!',
+    'notifications' => 'Obaveštenja',
+    'see:all' => 'Vidi sve',
+    'friend:requests' => 'Zahtev za prijateljstvo',
+    'ossn:notifications:friendrequest:confirmbutton' => 'Prihvati',
+    'ossn:notifications:friendrequest:denybutton' => 'Odbi',
 	
-    'ossn:notification:mark:read:success' => 'Successfully marked all as read',
-    'ossn:notification:mark:read:error' => 'Can not mark all as read',
+    'ossn:notification:mark:read:success' => 'Označeno kao pročitano',
+    'ossn:notification:mark:read:error' => 'Ne možes označiti kao pročitano',
     
-    'ossn:notifications:mark:as:read' => 'Mark all as read',
+    'ossn:notifications:mark:as:read' => 'Označi kao pročitano',
 );
 ossn_register_languages('en', $en);  
